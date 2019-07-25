@@ -7,6 +7,7 @@
   <?php include 'sharedContent.php'?>
   </head>
 </html>
+<h1>Hello</h1>
 <body>
 <fieldset id="slideshow">
     <div class="container">

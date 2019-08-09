@@ -8,7 +8,7 @@
 
   </head>
 <body>
-    <h1>Hello</h1>
+    <h1></h1>
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
